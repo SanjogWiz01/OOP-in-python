@@ -1,0 +1,16 @@
+🧠 Practice Questions (from “Class & Object”)
+
+ 1    /Student Management:
+Create a Student class with name, roll, and marks attributes.
+Add a method to calculate and print the grade.
+
+2     /Bank Account System:
+Class BankAccount with deposit(), withdraw(), and check_balance() methods.
+Prevent withdrawal if balance < requested amount.
+
+3      /Library System:
+Class Book and Library.
+Library can add_book(), lend_book(), return_book().
+
+4      /Employee Payroll:
+Class Employee with attributes name, salary, and method bonus() that adds 10% bonus if salary < 50,000.
