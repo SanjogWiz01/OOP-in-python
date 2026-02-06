@@ -12,4 +12,4 @@ Polymorphism – Use the same function in different ways.
 
 Iterators & Special Methods – Loop over custom objects and customize behavior.
 
-All programs are simple, well-commented, and easy to understand, making this a perfect starting point for anyone learning Python OOP.
+All programs are simple, well-commented, and easy to understand, making this a perfect starting point for anyone learning Python OOP.💖
