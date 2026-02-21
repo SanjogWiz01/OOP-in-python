@@ -1,5 +1,3 @@
-
-
 from abc import ABC, abstractmethod
 
 # Abstract class
@@ -28,4 +26,4 @@ class MyATM(ATM):
 
 # Main Program
 a = MyATM(1000)
-a.withdraw(300)
+a.withdraw(300) # cheching the conditions
