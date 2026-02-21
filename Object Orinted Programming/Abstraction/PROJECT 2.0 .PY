@@ -62,7 +62,7 @@ while True:
     print("2 Withdraw")
     print("3 Check Balance")
     print("4 Account Info")
-    print("5 Exit")
+    print("5 Exit") # making the condiotions that user can selects from them
 
     choice = input("Enter Choice: ")
 
