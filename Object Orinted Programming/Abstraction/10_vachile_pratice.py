@@ -1,5 +1,3 @@
-# file3_vehicle_abstraction.py
-
 from abc import ABC, abstractmethod
 
 # Abstract class
