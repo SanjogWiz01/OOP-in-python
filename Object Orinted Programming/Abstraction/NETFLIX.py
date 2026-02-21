@@ -81,7 +81,7 @@ while True:
 
     ch = input("Enter Choice: ")
 
-    if ch == '1':
+    if ch == '1': # for showing the recommadations
 
         n.show_categories()
 
