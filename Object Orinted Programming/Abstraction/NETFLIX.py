@@ -85,7 +85,7 @@ while True:
 
         n.show_categories()
 
-    elif ch == '2':
+    elif ch == '2': # malipulates
 
         cat = input("Enter Category: ")
         n.show_movies(cat)
