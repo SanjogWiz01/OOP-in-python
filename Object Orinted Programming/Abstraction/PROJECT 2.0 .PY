@@ -68,8 +68,8 @@ while True:
 
     if choice == '1':
 
-        amt = int(input("Enter Amount: "))
-        user1.deposit(amt)
+        amt = int(input("Enter Amount: ")) # input
+        user1.deposit(amt) 
 
     elif choice == '2':
 
