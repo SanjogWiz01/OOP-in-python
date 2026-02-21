@@ -22,3 +22,4 @@ class Rectangle(Shape):
 # Main Program
 r = Rectangle(5, 3)
 print("Area of Rectangle =", r.area())
+# declaring the object for the given space
