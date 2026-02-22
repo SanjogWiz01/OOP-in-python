@@ -1,5 +1,3 @@
-# basic_iterator.py
-
 class WeatherIterator:
     """
     Custom iterator for daily weather readings
