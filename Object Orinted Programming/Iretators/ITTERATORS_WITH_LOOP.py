@@ -1,4 +1,4 @@
-class RainyDayIterator:
+231qwedsclass RainyDayIterator:
     """
     Iterates only over rainy days
     """
