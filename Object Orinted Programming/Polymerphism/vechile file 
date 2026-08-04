@@ -1,0 +1,10 @@
+class Car:
+    def move(self):
+        print("Car is driving")
+
+class Boat:
+    def move(self):
+        print("Boat is sailing")
+
+for vehicle in [Car(), Boat()]:
+    vehicle.move()
