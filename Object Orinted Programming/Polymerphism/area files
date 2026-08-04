@@ -1,0 +1,12 @@
+class Circle:
+    def area(self):
+        print("Area of Circle")
+
+class Rectangle:
+    def area(self):
+        print("Area of Rectangle")
+
+shapes = [Circle(), Rectangle()]
+
+for shape in shapes:
+    shape.area()
