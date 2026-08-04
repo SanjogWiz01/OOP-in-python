@@ -1,0 +1,12 @@
+class Email:
+    def send(self):
+        print("Email sent")
+
+class SMS:
+    def send(self):
+        print("SMS sent")
+
+notifications = [Email(), SMS()]
+
+for notice in notifications:
+    notice.send()
