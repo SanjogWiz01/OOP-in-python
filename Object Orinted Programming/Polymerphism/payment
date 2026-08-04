@@ -1,0 +1,12 @@
+class Cash:
+    def pay(self):
+        print("Paid using Cash")
+
+class Card:
+    def pay(self):
+        print("Paid using Card")
+
+payments = [Cash(), Card()]
+
+for payment in payments:
+    payment.pay()
