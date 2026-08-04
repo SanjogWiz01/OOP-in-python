@@ -1,0 +1,12 @@
+class Undergraduate:
+    def result(self):
+        print("Undergraduate Result")
+
+class Graduate:
+    def result(self):
+        print("Graduate Result")
+
+students = [Undergraduate(), Graduate()]
+
+for student in students:
+    student.result()
