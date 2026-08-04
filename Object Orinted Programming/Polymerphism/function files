@@ -1,0 +1,13 @@
+class Lion:
+    def sound(self):
+        print("Roar")
+
+class Cow:
+    def sound(self):
+        print("Moo")
+
+def make_sound(animal):
+    animal.sound()
+
+make_sound(Lion())
+make_sound(Cow())
